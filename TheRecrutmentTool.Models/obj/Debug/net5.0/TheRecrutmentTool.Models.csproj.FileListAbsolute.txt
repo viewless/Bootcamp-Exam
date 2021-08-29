@@ -1,0 +1,12 @@
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\bin\Debug\net5.0\TheRecrutmentTool.Models.deps.json
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\bin\Debug\net5.0\TheRecrutmentTool.Models.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\bin\Debug\net5.0\ref\TheRecrutmentTool.Models.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\bin\Debug\net5.0\TheRecrutmentTool.Models.pdb
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\obj\Debug\net5.0\TheRecrutmentTool.Models.csproj.AssemblyReference.cache
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\obj\Debug\net5.0\TheRecrutmentTool.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\obj\Debug\net5.0\TheRecrutmentTool.Models.AssemblyInfoInputs.cache
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\obj\Debug\net5.0\TheRecrutmentTool.Models.AssemblyInfo.cs
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\obj\Debug\net5.0\TheRecrutmentTool.Models.csproj.CoreCompileInputs.cache
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\obj\Debug\net5.0\TheRecrutmentTool.Models.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\obj\Debug\net5.0\ref\TheRecrutmentTool.Models.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Models\obj\Debug\net5.0\TheRecrutmentTool.Models.pdb

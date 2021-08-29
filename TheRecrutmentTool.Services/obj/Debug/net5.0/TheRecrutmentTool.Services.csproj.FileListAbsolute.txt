@@ -1,0 +1,17 @@
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\obj\Debug\net5.0\TheRecrutmentTool.Services.csproj.AssemblyReference.cache
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\obj\Debug\net5.0\TheRecrutmentTool.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\obj\Debug\net5.0\TheRecrutmentTool.Services.AssemblyInfoInputs.cache
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\obj\Debug\net5.0\TheRecrutmentTool.Services.AssemblyInfo.cs
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\obj\Debug\net5.0\TheRecrutmentTool.Services.csproj.CoreCompileInputs.cache
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\bin\Debug\net5.0\TheRecrutmentTool.Services.deps.json
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\bin\Debug\net5.0\TheRecrutmentTool.Services.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\bin\Debug\net5.0\ref\TheRecrutmentTool.Services.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\bin\Debug\net5.0\TheRecrutmentTool.Services.pdb
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\bin\Debug\net5.0\TheRecrutmentTool.DataAccess.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\bin\Debug\net5.0\TheRecrutmentTool.Models.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\bin\Debug\net5.0\TheRecrutmentTool.DataAccess.pdb
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\bin\Debug\net5.0\TheRecrutmentTool.Models.pdb
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\obj\Debug\net5.0\TheRecrutmentTool.Services.csproj.CopyComplete
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\obj\Debug\net5.0\TheRecrutmentTool.Services.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\obj\Debug\net5.0\ref\TheRecrutmentTool.Services.dll
+D:\Viewless Account\Desktop\SoftuniExam\TheRecrutmentTool\TheRecrutmentTool.Services\obj\Debug\net5.0\TheRecrutmentTool.Services.pdb
